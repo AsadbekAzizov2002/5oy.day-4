@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 100%;
+}
+.card-box{
+    max-width: 400px;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+}
